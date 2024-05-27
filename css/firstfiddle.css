@@ -185,13 +185,42 @@ footer .img1234 {
     margin-top: 20
 }
 
-.ac {
+.ac1 {
     line-height: 20px;
     letter-spacing: 1px;
     word-spacing: 1px;
     font-weight: lighter;
 }
 
+/* press release div start */
+.cc {
+    background-image: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    margin-top: 20
+}
+
+.ac1 {
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-weight: lighter;
+}
+.pr{
+  margin-top: 80px;
+}
+.go{
+line-height: 20px;
+letter-spacing: 1px;
+word-spacing: 1px;
+padding-right: 5px;
+margin-top: 20px;
+font-weight: lighter;
+padding-bottom: 12px;
+}
 
 /* careers div start */
 .c6{
